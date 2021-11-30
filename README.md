@@ -11,6 +11,8 @@ All machine-readable files must conform to a non-proprietary, open standards for
 
 **Consistent with the Departments’ August 20, 2021 guidance (see below “Guidance” section), the Departments have not promulgated any final guidance with respect to the form and manner for the Prescription Drug File.**
 
+**Any material currently or previously published on this site with respect to the form and manner of the Prescription Drug File has been superseded and is not guidance of the Departments.**
+
 Background
 ==========
 
